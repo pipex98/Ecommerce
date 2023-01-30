@@ -1,0 +1,9 @@
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.RazorAssemblyInfo.cache
+C:\Users\Felipe\Desktop\csharp\ecommerce\ecommerce\obj\Release\net6.0\ecommerce.RazorAssemblyInfo.cs
